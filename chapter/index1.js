@@ -26,3 +26,4 @@ const config = {
   title: 'action game'
 }
 const game = new Phaser.Game(config)
+console.log(game)
